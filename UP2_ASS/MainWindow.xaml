@@ -1,0 +1,44 @@
+﻿<Window x:Class="UP2_ASS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UP2_ASS"
+        mc:Ignorable="d"
+        Title="Книмжки" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0, 1" EndPoint="1, 0">
+                <GradientStop Color="LightGray"/>
+                <GradientStop Color="LightSkyBlue" Offset="2.5"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="5">
+                <Button Content="Удалить" Padding="5" Margin="5"/>
+                <Button Content="Изменить" Padding="5" Margin="5"/>
+            </StackPanel>
+
+            <ScrollViewer Height="350">
+                <ItemsControl x:Name="itemsControlMain">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <DockPanel>
+                                <StackPanel Orientation="Vertical" DockPanel.Dock="Right">
+                                    <TextBlock Text="{Binding Genre, StringFormat=Жанр: {0}}"/>
+                                    <TextBlock Text="{Binding Status, StringFormat=Статус чтения: {0}}"/>
+                                </StackPanel>
+                                
+                                <StackPanel Orientation="Vertical" MinWidth="250">
+                                    <TextBlock Text="{Binding Name, StringFormat=Название: {0}}"/>
+                                    <TextBlock Text="{Binding Authors, StringFormat=Автор(-ы): {0}}"/>
+                                    <TextBlock Text="{Binding Year, StringFormat=Год выпуска: {0}}"/>
+                                </StackPanel>
+                            </DockPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+        </DockPanel>
+    </Grid>
+</Window>
