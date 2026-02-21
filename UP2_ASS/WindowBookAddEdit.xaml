@@ -5,8 +5,37 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UP2_ASS"
         mc:Ignorable="d"
-        Title="WindowBookAddEdit" Height="450" Width="800">
+        Title="WindowBookAddEdit" Height="500" Width="800">
     <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0, 1" EndPoint="1, 0">
+                <GradientStop Color="LightGray"/>
+                <GradientStop Color="LightSkyBlue" Offset="2.5"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="20">
+
+            <TextBlock Text="Название" Padding="5" Margin="5"/>
+            <TextBox Text="{Binding Name}" Padding="5" Margin="2" MinWidth="300"/>
+
+            <TextBlock Text="Авторы" Padding="5" Margin="5"/>
+            <TextBox Text="{Binding Authors}" Padding="5" Margin="2"/>
+
+            <TextBlock Text="Год выпуска" Padding="5" Margin="5"/>
+            <TextBox Text="{Binding Year}" Padding="5" Margin="2"/>
+
+            <TextBlock Text="Жанр" Padding="5" Margin="5"/>
+            <ComboBox x:Name="comboxGenres" DisplayMemberPath="Name" SelectedItem="{Binding Genre}" Padding="5" Margin="2"/>
+
+            <TextBlock Text="Статус" Padding="5" Margin="5"/>
+            <ComboBox x:Name="comboxStatuses" DisplayMemberPath="Name" SelectedItem="{Binding Status}" Padding="5" Margin="2"/>
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <Button x:Name="buttDone" Click="buttDone_Click" Content="Готово" VerticalAlignment="Center" Margin="20" Padding="3"/>
+                <Button x:Name="buttDelete" Click="buttDelete_Click" Content="Удалить" VerticalAlignment="Center" Margin="20" Padding="3"/>
+                <Button x:Name="buttQuit" Click="buttQuit_Click" Content="Выход" VerticalAlignment="Center" Margin="20" Padding="3"/>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>

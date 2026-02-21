@@ -15,26 +15,21 @@
         </Grid.Background>
         <DockPanel>
             <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="5">
-                <Button Content="Удалить" Padding="5" Margin="5"/>
-                <Button Content="Изменить" Padding="5" Margin="5"/>
+                <Button x:Name="buttDeleteAll" Click="buttDeleteAll_Click" Content="Удалить все" Background="OrangeRed" Padding="5" Margin="5"/>
+                <Button x:Name="buttAddBook" Click="buttAddBook_Click" Content="Добавить книгу" Padding="5" Margin="5"/>
             </StackPanel>
 
             <ScrollViewer Height="350">
-                <ItemsControl x:Name="itemsControlMain">
+                <ItemsControl x:Name="itemscontrolMain">
                     <ItemsControl.ItemTemplate>
                         <DataTemplate>
-                            <DockPanel>
-                                <StackPanel Orientation="Vertical" DockPanel.Dock="Right">
-                                    <TextBlock Text="{Binding Genre, StringFormat=Жанр: {0}}"/>
-                                    <TextBlock Text="{Binding Status, StringFormat=Статус чтения: {0}}"/>
-                                </StackPanel>
-                                
-                                <StackPanel Orientation="Vertical" MinWidth="250">
+                            <StackPanel MouseDown="StackPanel_MouseDown" Orientation="Vertical" DockPanel.Dock="Right">
                                     <TextBlock Text="{Binding Name, StringFormat=Название: {0}}"/>
                                     <TextBlock Text="{Binding Authors, StringFormat=Автор(-ы): {0}}"/>
                                     <TextBlock Text="{Binding Year, StringFormat=Год выпуска: {0}}"/>
+                                    <TextBlock Text="{Binding GenreName, StringFormat=Жанр: {0}}"/>
+                                    <TextBlock Text="{Binding StatusName, StringFormat=Статус чтения: {0}}"/>
                                 </StackPanel>
-                            </DockPanel>
                         </DataTemplate>
                     </ItemsControl.ItemTemplate>
                 </ItemsControl>

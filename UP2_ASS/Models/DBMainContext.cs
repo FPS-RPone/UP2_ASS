@@ -10,11 +10,16 @@ namespace UP2_ASS.Models
     internal class DBMainContext: DbContext 
     {
         public DbSet<Book> Books { get; set; }
+        public DbSet<Genre> Genres { get; set; }
+        public DbSet<Status> Statuses { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite(@"Data Source=localdb.db");
+            optionsBuilder.UseSqlServer(@"Server=(LocalDB)\MSSqlLocalDB;
+                                        Database=BookShopSA;
+                                        Trusted_Connection=True;
+                                        TrustServerCertificate=True;");
         }
 
         public DBMainContext()

@@ -11,6 +11,11 @@ namespace UP2_ASS.Models
     {
         public int StatusId { get; set; }
         [MaxLength(100)]
-        public string? StatusName { get; set; }
+        public string? Name { get; set; }
+
+        public Status(string name)
+        {
+            this.Name = name;
+        }
     }
 }
