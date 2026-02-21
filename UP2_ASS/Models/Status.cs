@@ -13,9 +13,5 @@ namespace UP2_ASS.Models
         [MaxLength(100)]
         public string? Name { get; set; }
 
-        public Status(string name)
-        {
-            this.Name = name;
-        }
     }
 }

@@ -21,5 +21,6 @@ namespace UP2_ASS.Models
         [MaxLength(50)]
         public string? StatusName { get; set; }
         public Status? Status { get; set; }
+        public User? User { get; set; }
     }
 }

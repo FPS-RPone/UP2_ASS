@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "E:\\!\\UP2_ASS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\dbmaincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\dbmaincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\windowbookaddedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\windowbookaddedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\windowbookaddedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +39,20 @@
       "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\windowbookaddedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\windowbookaddedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|e:\\!\\up2_ass\\up2_ass\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F026120D-65C7-43E7-AEC7-08527AB60C17}|UP2_ASS\\UP2_ASS.csproj|solutionrelative:up2_ass\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +62,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "UP2_ASS\\Models\\Role.cs",
+              "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Role.cs",
+              "RelativeToolTip": "UP2_ASS\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:07:28.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -54,33 +88,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\App.xaml",
+              "RelativeDocumentMoniker": "UP2_ASS\\App.xaml",
+              "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\App.xaml",
+              "RelativeToolTip": "UP2_ASS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T06:36:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "UP2_ASS\\LoginPage.xaml.cs",
+              "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\LoginPage.xaml.cs",
+              "RelativeToolTip": "UP2_ASS\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:13:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "UP2_ASS\\LoginPage.xaml",
+              "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\LoginPage.xaml",
+              "RelativeToolTip": "UP2_ASS\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T06:10:18.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UP2_ASS\\Models\\User.cs",
+              "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\User.cs",
+              "RelativeToolTip": "UP2_ASS\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:06:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Book.cs",
               "RelativeDocumentMoniker": "UP2_ASS\\Models\\Book.cs",
               "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Book.cs",
               "RelativeToolTip": "UP2_ASS\\Models\\Book.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T04:50:18.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Genre.cs",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "UP2_ASS\\Models\\Genre.cs",
               "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Genre.cs",
               "RelativeToolTip": "UP2_ASS\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T11:31:35.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "WindowBookAddEdit.xaml.cs",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\WindowBookAddEdit.xaml.cs",
               "RelativeDocumentMoniker": "UP2_ASS\\WindowBookAddEdit.xaml.cs",
@@ -93,45 +176,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Status.cs",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Status.cs",
               "RelativeDocumentMoniker": "UP2_ASS\\Models\\Status.cs",
               "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\Status.cs",
               "RelativeToolTip": "UP2_ASS\\Models\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T11:32:14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T11:32:14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "WindowBookAddEdit.xaml",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\WindowBookAddEdit.xaml",
               "RelativeDocumentMoniker": "UP2_ASS\\WindowBookAddEdit.xaml",
               "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\WindowBookAddEdit.xaml",
               "RelativeToolTip": "UP2_ASS\\WindowBookAddEdit.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-19T11:17:59.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T11:17:59.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DBMainContext.cs",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\DBMainContext.cs",
               "RelativeDocumentMoniker": "UP2_ASS\\Models\\DBMainContext.cs",
               "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\Models\\DBMainContext.cs",
               "RelativeToolTip": "UP2_ASS\\Models\\DBMainContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T10:29:04.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\MainWindow.xaml",
               "RelativeDocumentMoniker": "UP2_ASS\\MainWindow.xaml",
@@ -143,16 +224,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\!\\UP2_ASS\\UP2_ASS\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "UP2_ASS\\MainWindow.xaml.cs",
               "ToolTip": "E:\\!\\UP2_ASS\\UP2_ASS\\MainWindow.xaml.cs",
               "RelativeToolTip": "UP2_ASS\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwDYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T10:24:28.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T10:24:28.968Z"
             }
           ]
         }

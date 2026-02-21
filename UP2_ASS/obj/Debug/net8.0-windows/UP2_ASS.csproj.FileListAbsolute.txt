@@ -151,3 +151,5 @@ E:\!\UP2_ASS\UP2_ASS\obj\Debug\net8.0-windows\refint\UP2_ASS.dll
 E:\!\UP2_ASS\UP2_ASS\obj\Debug\net8.0-windows\UP2_ASS.pdb
 E:\!\UP2_ASS\UP2_ASS\obj\Debug\net8.0-windows\UP2_ASS.genruntimeconfig.cache
 E:\!\UP2_ASS\UP2_ASS\obj\Debug\net8.0-windows\ref\UP2_ASS.dll
+E:\!\UP2_ASS\UP2_ASS\obj\Debug\net8.0-windows\LoginPage.g.cs
+E:\!\UP2_ASS\UP2_ASS\obj\Debug\net8.0-windows\LoginPage.baml

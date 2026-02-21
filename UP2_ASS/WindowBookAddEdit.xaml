@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UP2_ASS"
         mc:Ignorable="d"
-        Title="WindowBookAddEdit" Height="500" Width="800">
+        Title="Книга" Height="550" Width="800" FontSize="16">
     <Grid>
         <Grid.Background>
             <LinearGradientBrush StartPoint="0, 1" EndPoint="1, 0">

@@ -12,10 +12,5 @@ namespace UP2_ASS.Models
         public int GenreId {  get; set; }
         [MaxLength(100)]
         public string? Name { get; set; }
-
-        public Genre(string name)
-        {
-            this.Name = name;
-        }
     }
 }
